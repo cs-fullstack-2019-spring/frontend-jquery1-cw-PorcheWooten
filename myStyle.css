@@ -78,3 +78,18 @@ h1, h2, h3 {
 .clearfix {
     *zoom: 1;
 }
+.red1{
+    color: red;
+}
+
+.blue1{
+    background: blue;
+}
+
+.green1{
+    background: green;
+    color: white;
+}.orange1{
+    background: orange;
+    color: white;
+}
